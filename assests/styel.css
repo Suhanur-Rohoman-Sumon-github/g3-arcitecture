@@ -66,22 +66,15 @@ nav ul li a{
     background: #FF900E;
     border-radius: 8px;
     border: 0;
-    transition: 2s;
-}
-.buuton-primary:hover{
-    background-color: #FFFFFF;
-    color: #131313;
-    border: 1px solid #424242;
     
 }
+
 .buuton-primary a{
     color: #FFFFFF;
     font-size: 16px;
     text-transform: capitalize;
 }
-.buuton-primary a:hover{
-    color: #131313;
-}
+
 
 .baner-imge img{
    height: 500px;
